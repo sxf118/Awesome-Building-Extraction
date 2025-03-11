@@ -7,7 +7,7 @@
 #### Single-Source
 
 | Dataset Name                   | Annotation Type  | Download Link                                                |
-|: ------------------------------ |: --------------- | :------------------------------------------------------------ |
+|:------------------------------ |:--------------- |:------------------------------------------------------------ |
 | Massachusetts Building Dataset | Raster          | [Download](https://www.kaggle.com/datasets/balraj98/massachusetts-buildings-dataset) |
 | INRIA Aerial Image Labeling    | Raster          | [Download](https://project.inria.fr/aerialimagelabeling/)    |
 | Bing Huts                      | Raster          | [Download](https://github.com/dmarcosg/DSAC)                 |
@@ -31,7 +31,7 @@
 #### Multi-source
 
 | Dataset Name       | Annotation Type  | Download Link                                                |
-| :------------------ | :--------------- | :------------------------------------------------------------ |
+|:------------------ |:--------------- |:------------------------------------------------------------ |
 | ISPRS 2D Vaihingen | Raster          | [Download](https://www.isprs.org/education/benchmarks/UrbanSemLab/2d-sem-label-vaihingen.aspx) |
 | ISPRS 2D Postdam   | Raster          | [Download](https://www.isprs.org/education/benchmarks/UrbanSemLab/2d-sem-label-potsdam.aspx) |
 | USGS               | Polygon         | [Download](https://figshare.com/articles/dataset/San_Francisco_California_-_Aerial_imagery_object_identification_dataset_for_building_and_road_detection_and_building_height_estimation/3504350) |
@@ -47,7 +47,7 @@
 ### Productions
 
 | Production Name                      | Access Link                                                  |
-|: ------------------------------------ | :------------------------------------------------------------ |
+|:------------------------------------ |:------------------------------------------------------------ |
 | Google Open Buildings                | [Link](https://sites.research.google/gr/open-buildings/)     |
 | Google Open Buildings Temporal       | [Link](https://sites.research.google/gr/open-buildings/temporal/) |
 | Microsoft GlobalMLBuildingFootprints | [Link](https://github.com/microsoft/GlobalMLBuildingFootprints) |
@@ -62,7 +62,7 @@
 ### Open-Source Codes
 
 | Methods     | Input Type    | Output Type | Paper                                                        | Access Link                                                  |
-|: ----------- | :------------- | :----------- | :------------------------------------------------------------ |: ------------------------------------------------------------ |
+|:----------- |:------------- |:----------- |:------------------------------------------------------------ |:------------------------------------------------------------ |
 | STT         | Single-Source | Raster      | [RS 2021](https://www.mdpi.com/2072-4292/13/21/4441)         | [Link](https://github.com/KyanChen/STT)                      |
 | FFL         | Single-Source | Polygon     | [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Girard_Polygonal_Building_Extraction_by_Frame_Field_Learning_CVPR_2021_paper.pdf) | [Link](https://github.com/Lydorn/Polygonization-by-Frame-Field-Learning) |
 | ASLNet      | Single-Source | Raster      | [TIP 2021](https://ieeexplore.ieee.org/document/9653801)     | [Link](https://github.com/ggsDing/ASLNet)                    |
