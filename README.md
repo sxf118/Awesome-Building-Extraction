@@ -56,7 +56,7 @@
 | CBRA                                 | [Link](https://zenodo.org/records/7500612)                   |
 | GABLE                                | [Link](https://github.com/AICyberTeam/GABLE)                 |
 | East Asian Buildings                 | [Link](https://doi.org/10.5281/zenodo.8174931)               |
-| CBF                                  | [Link]([https://zenodo.org/doi/10.5281/zenodo.10043351](http://dx.doi.org/10.5281/zenodo.10043351)) |
+| CBF                                  | [Link](http://dx.doi.org/10.5281/zenodo.10043351)|
 
 
 ### Open-Source Codes
