@@ -88,7 +88,7 @@ journal = {Computer Vision and Image Understanding},
 volume = {251},
 pages = {104253},
 year = {2025},
-doi = {https://doi.org/10.1016/j.cviu.2024.104253}
+doi = {10.1016/j.cviu.2024.104253}
 }
 
 @ARTICLE{10507075,
