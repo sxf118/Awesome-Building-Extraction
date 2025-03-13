@@ -75,6 +75,7 @@
 | SDSC-UNet   | Single-Source | Raster      | [GRSL 2023](https://ieeexplore.ieee.org/document/10108049)   | [Link](https://github.com/stdcoutzrh/BuildingExtraction)     |
 | UANet       | Single-Source | Raster      | [TGRS 2024](https://ieeexplore.ieee.org/document/10418227)   | [Link](https://github.com/Henryjiepanli/Uncertainty-aware-Network) |
 | CMGFNet     | Multi-Source  | Raster      | [ISPRS JPRS 2022](https://www.sciencedirect.com/science/article/abs/pii/S0924271621003294) | [Link](https://github.com/hamidreza2015/CMGFNet-Building_Extraction) |
+| UFE     | Multi-Source  | Raster      | [TGRS 2024](https://ieeexplore.ieee.org/document/10507075) | [Link](https://github.com/sxf118/UFE) |
 
 
 ### Citation
